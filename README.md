@@ -128,14 +128,14 @@ The dataset contains 33 columns, offering rich contextual information for analys
 - ICMP has the lowest count, typically associated with diagnostic or control messages.
 
 ### 15. Top 5 States Affected by Cyber Attacks
-![Top 5 States Affected by Cyber Attacks](images/top5_states_affected_by cyberattacks.png)
+![Top 5 States Affected by Cyber Attacks](images/top5_states_affected_by_cyberattacks.png)
 **Observations:**
 - Ghaziabad in Meghalaya experiences the highest number of attacks, indicating concentrated vulnerabilities.
 - Smaller states like Nagaland and Tripura also show significant attack levels, highlighting the need for robust security measures in underrepresented areas.
 - Regional patterns may indicate specific attacker strategies or infrastructure weaknesses.
   
 ### 16. Average Packet Length by Traffic Type (Monthly Trend)
-![Average Packet Length by Traffic Type (Monthly Trend)](images/avg_packet_length_by traffic_type_by_month.png)
+![Average Packet Length by Traffic Type (Monthly Trend)](images/avg_packet_length_by_traffic_type_by_month.png)
 
 **Observations:**
 - DNS shows peaks during specific months, which could correlate with increased attack campaigns or system updates.
@@ -143,7 +143,7 @@ The dataset contains 33 columns, offering rich contextual information for analys
 - FTP displays sharp spikes and drops, suggesting inconsistent usage or targeted attack behaviors.
 
 ### 17. Average Packet Length by Traffic Type (Yearly Trend)
-![Average Packet Length by Traffic Type (Yearly Trend)](images/average_packet_length_by traffic_type_by_hour.png)
+![Average Packet Length by Traffic Type (Yearly Trend)](images/average_packet_length_by_traffic_type_by_hour.png)
 **Observations:**
 - DNS traffic exhibits an increasing trend in average packet length over the years, possibly due to expanded payloads.
 - FTP shows inconsistent fluctuations, which might indicate irregular usage or varying transfer sizes.
