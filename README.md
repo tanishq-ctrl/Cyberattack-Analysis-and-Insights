@@ -123,14 +123,14 @@ The dataset contains 33 columns, offering rich contextual information for analys
 ### 14. Protocol Usage Distribution
 ![Protocol Usage Distribution](images/Distribution_of_protocols.png)
 **Observations:**
-- TCP dominates the protocol distribution, reflecting its widespread use in most applications.
+- ICMP dominates the protocol distribution, reflecting its widespread use in most applications.
 - UDP shows significant usage, likely due to real-time data transmissions or DNS traffic.
-- ICMP has the lowest count, typically associated with diagnostic or control messages.
+- TCP has the lowest count, typically associated with diagnostic or control messages.
 
 ### 15. Top 5 States Affected by Cyber Attacks
 ![Top 5 States Affected by Cyber Attacks](images/top5_states_affected_by_cyberattacks.png)
 **Observations:**
-- Ghaziabad in Meghalaya experiences the highest number of attacks, indicating concentrated vulnerabilities.
+- Ghaziabad and Meghalaya experiences the highest number of attacks, indicating concentrated vulnerabilities.
 - Smaller states like Nagaland and Tripura also show significant attack levels, highlighting the need for robust security measures in underrepresented areas.
 - Regional patterns may indicate specific attacker strategies or infrastructure weaknesses.
   
