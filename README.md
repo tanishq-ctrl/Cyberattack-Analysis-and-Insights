@@ -33,42 +33,55 @@ The dataset contains 33 columns, offering rich contextual information for analys
 **Insight**: A small subset of IPs are responsible for a significant number of attacks, indicating possible repeat offenders. Security teams can prioritize monitoring and blocking these IPs.
 
 ### 2. Top 10 Destination Ports
+![Top 10 Destination Ports](images/top_10_targeted_destination_ports.png)
 **Insight**: Frequently targeted ports suggest potential vulnerabilities or widely used protocols. Ports like 80 (HTTP) and 443 (HTTPS) may be high-value targets.
 
 ### 3. Distribution of Packet Lengths
+![Distribution of Packet Lengths](images/Distribution_of_packet_lengths.png)
 **Insight**: The histogram highlights clustering around specific packet sizes, possibly reflecting standard protocol behavior or attack payloads.
 
 ### 4. Attack Type vs Severity Level
+![Attack Type vs Severity Level](images/Attack_type_vs_severity_level.png)
 **Insight**: Certain attack types (e.g., DDoS) are more associated with high-severity incidents. This highlights the need for robust mitigation strategies.
 
 ### 5. Hourly Trends in Cyber Attacks
+![5. Hourly Trends in Cyber Attacks](images/Hourly_trends_in_cyber_attacks.png)
 **Insight**: Peaks during certain hours suggest attackers' schedules or automated attack scripts. Organizations should heighten monitoring during these periods.
 
 ### 6. Anomaly Scores by Severity
+![Anomaly Scores by Severity](images/Anomally_scores_dist_by_security_level.png)
 **Insight**: Higher severity levels align with higher anomaly scores. This validates the effectiveness of anomaly detection systems.
 
 ### 7. Top Network Segments
+![Top Network Segments](images/top5_network_segments_Attacked.png)
 **Insight**: Specific network segments are disproportionately targeted, likely due to their critical functions or vulnerabilities.
 
 ### 8. Month-wise Trends
+![Month-wise Trends](images/month_wise_distribution_of_Attacks.png)
 **Insight**: Seasonal spikes may correlate with global events or specific attack campaigns. Enhanced monitoring is recommended during peak months.
 
 ### 9. Alerts Breakdown
+![Alerts Breakdown](images/Breakdown_of_Alerts:Warnings.png)
 **Insight**: High-frequency alerts indicate common threats, while rare alerts may signify emerging risks.
 
 ### 10. Traffic Types
+![Traffic Types](images/Distribution_of_traffic_types_in_attacks.png)
 **Insight**: Predominant traffic types like HTTP and DNS are natural targets due to their ubiquity in network communications.
 
 ### 11. Distribution of Attack Types by Browser
+![Distribution of Attack Types by Browser](images/distribution_of_attack_types_browser.png)
 **Insight**: Certain browsers are more frequently targeted, likely reflecting their popularity or security gaps.
 
 ### 12. Distribution of Attack Types by Device/OS
+![Distribution of Attack Types by Device/OS](images/Distribution_of_attack_types_by_device:os.png)
 **Insight**: Vulnerabilities are concentrated in specific device/OS combinations, highlighting areas for improvement.
 
 ### 13. Top Actions Taken
+![Top Actions Taken](images/Top_action_taken_against_attacks.png)
 **Insight**: Blocking and isolating are the most frequent responses. This suggests a need to evaluate their effectiveness.
 
 ### 14. Protocol Usage Distribution
+![Protocol Usage Distribution](images/Distribution_of_protocols.png)
 **Insight**: Common protocols like TCP and UDP dominate, underscoring the importance of securing these foundational elements.
 
 ---
