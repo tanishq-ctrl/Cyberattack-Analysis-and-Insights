@@ -29,6 +29,7 @@ The dataset contains 33 columns, offering rich contextual information for analys
 ## Visualizations and Insights
 
 ### 1. Top 10 Source IPs
+![Top 10 Source IPs](images/top10_sourceips_involved_in_cyberattacks.png)
 **Insight**: A small subset of IPs are responsible for a significant number of attacks, indicating possible repeat offenders. Security teams can prioritize monitoring and blocking these IPs.
 
 ### 2. Top 10 Destination Ports
